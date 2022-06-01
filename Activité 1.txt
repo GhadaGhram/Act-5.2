@@ -1,0 +1,21 @@
+Activité 1
+
+/CDlist/CD/performance/composition
+
+/CDlist/CD/performance[soloist]/composition
+
+/CDlist/CD/performance[orchestra and not(soloist)]
+
+/CDlist/CD/performance[orchestra="London Symphony Orchestra"]/soloist
+
+/CDlist/CD[performance[orchestra="London Symphony Orchestra"]]
+
+
+
+
+
+
+
+
+
+
